@@ -1,0 +1,17 @@
+{
+    "name": "younessaj/coach-pro-v3",
+    "autoload": {
+        "psr-4": {
+            "Younessaj\\CoachProV3\\": "src/",
+            "App\\": "app/",
+            "Core\\": "core/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Youness Ait Jamaa",
+            "email": "aitjamaayouness1@gmail.com"
+        }
+    ],
+    "require": {}
+}
